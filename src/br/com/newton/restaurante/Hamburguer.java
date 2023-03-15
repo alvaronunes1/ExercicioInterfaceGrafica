@@ -9,13 +9,17 @@ public class Hamburguer {
 
     public double calcular(double valor, boolean artesanal) {
         if (artesanal){
-            valor +=5;
+            valor +=8;
             return valor;
         }
         return valor;
 
     }
 
+    public void retornarNome() {
+        System.out.println(nome);
     }
+
+}
 
 

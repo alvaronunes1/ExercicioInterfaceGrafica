@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fed78df9-9ef1-43bf-b521-f3308c0b27f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjetoRestaurante.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/newton/restaurante/Hamburguer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/newton/restaurante/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/newton/restaurante/Restaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/newton/restaurante/Hamburguer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/newton/restaurante/Hamburguer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/newton/restaurante/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/newton/restaurante/Restaurante.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/12116455/IdeaProjects/ProjetoTelefone"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/12116455/IdeaProjects/ProjetoTelefone&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Restaurante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.newton.restaurante.Restaurante" />
